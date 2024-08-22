@@ -5,8 +5,8 @@
   "elements": [
     {
       "type": "rectangle",
-      "version": 1099,
-      "versionNonce": 572746659,
+      "version": 1254,
+      "versionNonce": 1742171731,
       "index": "ab",
       "isDeleted": false,
       "id": "wcgCgDUm1kSFer4dZcUoK",
@@ -17,11 +17,11 @@
       "opacity": 100,
       "angle": 0,
       "x": 638.8789062499998,
-      "y": 443.65625,
+      "y": 421.33203125,
       "strokeColor": "transparent",
       "backgroundColor": "#b2f2bb",
       "width": 287.5078124999998,
-      "height": 294.79296875,
+      "height": 296.7265625,
       "seed": 1305276271,
       "groupIds": [],
       "frameId": null,
@@ -29,7 +29,7 @@
         "type": 3
       },
       "boundElements": [],
-      "updated": 1719886369979,
+      "updated": 1724291267156,
       "link": null,
       "locked": false
     },
@@ -422,8 +422,8 @@
     },
     {
       "type": "text",
-      "version": 385,
-      "versionNonce": 1970842906,
+      "version": 646,
+      "versionNonce": 944182643,
       "index": "b02",
       "isDeleted": false,
       "id": "CoOp1nMJbyv5Lb9v9jkdq",
@@ -433,8 +433,8 @@
       "roughness": 0,
       "opacity": 50,
       "angle": 0,
-      "x": 688.5361709594721,
-      "y": 715.7359375,
+      "x": 689.9892959594721,
+      "y": 427.24375,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffec99",
       "width": 193.23234558105483,
@@ -444,7 +444,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719039152001,
+      "updated": 1724291255089,
       "link": null,
       "locked": false,
       "fontSize": 12.214192708333343,
@@ -459,7 +459,9 @@
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {}

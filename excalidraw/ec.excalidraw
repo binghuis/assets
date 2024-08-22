@@ -353,8 +353,8 @@
     },
     {
       "type": "text",
-      "version": 642,
-      "versionNonce": 503114468,
+      "version": 1077,
+      "versionNonce": 1240696147,
       "index": "an",
       "isDeleted": false,
       "id": "_oS04xQxJYnoKN0IMw_8c",
@@ -364,8 +364,8 @@
       "roughness": 0,
       "opacity": 50,
       "angle": 0,
-      "x": 528.4513593810099,
-      "y": 384.3475470377038,
+      "x": 138.29120313100987,
+      "y": 192.5897345377038,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#ffec99",
       "width": 201.8024838874096,
@@ -375,7 +375,7 @@
       "frameId": null,
       "roundness": null,
       "boundElements": [],
-      "updated": 1719193345931,
+      "updated": 1724291216335,
       "link": null,
       "locked": false,
       "fontSize": 12.755910092636261,
@@ -1046,12 +1046,14 @@
       "startBinding": {
         "elementId": "dRZXExN3vJ1fw_ezian9X",
         "focus": -0.04236276738933927,
-        "gap": 4.09499176103202
+        "gap": 4.09499176103202,
+        "fixedPoint": null
       },
       "endBinding": {
         "elementId": "WCosIrMots5xvuoJm0ksQ",
         "focus": 0.015058379508537003,
-        "gap": 2.390117342814449
+        "gap": 2.390117342814449,
+        "fixedPoint": null
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
@@ -1099,12 +1101,14 @@
       "startBinding": {
         "elementId": "VPCi-yiGbEYuU7BXfJr0R",
         "focus": -0.06305831746542173,
-        "gap": 2.782279702041251
+        "gap": 2.782279702041251,
+        "fixedPoint": null
       },
       "endBinding": {
         "elementId": "aX6CgHirdgI0VDfZNpf8W",
         "focus": 0.08428063571973167,
-        "gap": 3.4279421718604226
+        "gap": 3.4279421718604226,
+        "fixedPoint": null
       },
       "lastCommittedPoint": null,
       "startArrowhead": null,
@@ -1171,7 +1175,9 @@
     }
   ],
   "appState": {
-    "gridSize": null,
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
     "viewBackgroundColor": "#ffffff"
   },
   "files": {}
